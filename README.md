@@ -2,11 +2,13 @@
 
 Making a video game sounds like fun, right?  Well, it's not.  Game dev is hard and the ergonomics tend to be awful.  Chances are that you'd rather be making web apps for the US Army.  If you're still not convinced then talk to your doctor.  If you like pain then maybe you'd like to give a hand.
 
+Team Chat: https://gitter.im/game-off-2016/Lobby
+
 **Don't forget the theme: Hacking/Modding/Augmenting**
 
 ### Prerequisites:
 
-- [ ] make a gitter channel
+- [x] make a gitter channel
 
 ### Rev's Vague Game Design plan &#8482;
 
